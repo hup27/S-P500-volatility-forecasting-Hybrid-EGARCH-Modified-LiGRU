@@ -1,4 +1,4 @@
-# EGARCH–LiGRU volatility forecasting, refactored
+# Hybrid EGARCH–ModifiedLiGRU volatility forecasting
 
 This package consolidates repeated notebook code into reusable modules.
 
