@@ -44,8 +44,8 @@ python main.py --experiment hybrid_historical --plots
 # Standard GRU comparison
 python main.py --experiment gru_baseline --plots
 
-# Run 12 random seeds and save a seed-results CSV
-python main.py --experiment hybrid_4_periods --seeds 12
+# Run 15 random seeds and save a seed-results CSV
+python main.py --experiment hybrid_4_periods --seeds 15
 
 # Return distribution, ACF, and descriptive statistics
 python main.py --experiment hybrid_4_periods --diagnostics
